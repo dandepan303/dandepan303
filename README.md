@@ -53,7 +53,7 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com/Raymo111/i3lock-color/issues/288#issuecomment-1662532626) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ✏️ Contributed to LiteTube on [#288](https://github.com/Raymo111/i3lock-color/issues/288#issuecomment-1662532626) in [dandepan303/LiteTube](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-1660796026) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#281](https://github.com/Raymo111/i3lock-color/issues/281#issuecomment-1659680228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#281](https://github.com/Raymo111/i3lock-color/issues/281#issuecomment-1659580029) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
