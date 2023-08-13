@@ -106,6 +106,8 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
+---
+
 **🐱 My GitHub Data** 
 
 > 📦 182.8 kB Used in GitHub's Storage 
@@ -117,7 +119,10 @@ HTML         6 mins          ▒░░░░░░░░░░░░░░░░
 > 📜 21 Public Repositories 
  > 
 > 🔑 23 Private Repositories 
- > 
+ >
+
+---
+
 **I'm an Early 🐤** 
 
 ```text
