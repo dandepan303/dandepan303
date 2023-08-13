@@ -14,7 +14,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 𝙰 𝚕𝚒𝚝𝚝𝚕𝚎 𝚖𝚘𝚛𝚎 𝚊𝚋𝚘𝚞𝚝 𝚖𝚎...  
 
 ```javascript
-const anmol = {
+const dandepan303 = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Python", "Typescript", "HMTL"],
     askMeAbout: ["web dev", "tech", "app dev", "security"],
@@ -23,10 +23,10 @@ const anmol = {
             js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["iOS Development"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "firebase"],
+        databases: ["mongo", "render"],
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
