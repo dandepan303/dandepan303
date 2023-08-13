@@ -54,6 +54,16 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+## 📊 𝚃𝚑𝚒𝚜 𝚠𝚎𝚎𝚔 𝙸 𝚜𝚙𝚎𝚗𝚝 𝚖𝚢 𝚝𝚒𝚖𝚎 𝚘𝚗:
+<!--START_SECTION:waka-->
+
+TypeScript   9 hrs 39 mins   ██████████████████▒░░░░░░   73.23 %
+JavaScript   2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
+JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+Groovy       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+
+<!--END_SECTION:waka-->
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
