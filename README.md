@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dandepan303/dandepan303/master/intro.gif" alt="👋 Hi there! I'm (dandepan303)|" title="👋 Hi there! I'm (dandepan303)|"/>
+<img src="https://raw.githubusercontent.com/dandepan303/dandepan303/master/intro.gif" alt="👋 Hi there! I'm dandepan303" title="👋 Hi there! I'm (dandepan303)|"/>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚆𝚎𝚋 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚜𝚎𝚌𝚞𝚛𝚒𝚝𝚢 + 𝚙𝚛𝚒𝚟𝚊𝚌𝚢 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑𝚎𝚛
