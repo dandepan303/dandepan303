@@ -58,10 +58,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   9 hrs 39 mins   ██████████████████▒░░░░░░   73.23 %
+Python       9 hrs 39 mins   ██████████████████▒░░░░░░   73.23 %
 JavaScript   2 hrs 26 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 %
 JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-Other        21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+TypeScript   21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
 Groovy       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
