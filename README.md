@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dandepan303/dandepan303/master/intro.mov" alt="👋 Hi there! I'm (dandepan303)|" title="👋 Hi there! I'm (dandepan303)|"/>
+<img src="https://raw.githubusercontent.com/dandepan303/dandepan303/master/intro.gif" alt="👋 Hi there! I'm (dandepan303)|" title="👋 Hi there! I'm (dandepan303)|"/>
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 <!--
